@@ -14,4 +14,4 @@ Previously bundled in [`tesserae-sky`](https://github.com/dmellok/tesserae-sky);
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+AGPL-3.0-or-later. See [LICENSE](./LICENSE).
